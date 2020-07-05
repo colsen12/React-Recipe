@@ -10,8 +10,21 @@
 	min-width: 40%;
 }
 
-.image {
+img {
 	border-radius: 50%;
-	width: 100px;
-	height: 100px;
+	width: 6.25rem;
+	height: 6.25rem;
+	margin-bottom: 2rem;
+}
+
+li {
+	padding-right: 1rem;
+}
+
+.ingredients {
+	text-align: left;
+}
+
+.link {
+	text-align: left;
 }
